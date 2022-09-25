@@ -8,7 +8,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://inquisitive-monstera-1ec622.netlify.app/">
+    <a href="https://helpful-shortbread-c88e08.netlify.app/">
       Solution
     </a>
   </h3>
